@@ -1,4 +1,4 @@
-# AdvancedWidget1
+# AdvancedWidget2
 #### Screenshoot Aplikasi
 ![Screenshot1](Screenshot_2016-10-02-20-51-29.png)
 ![Screenshot2](Screenshot_2016-10-02-20-52-43.png)
